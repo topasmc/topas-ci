@@ -1,0 +1,8 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: EnergyDepositBinnedByEnergy.txt
+# Results for scorer Case3BinnedByEnergyDepositedInStep
+# Scored in component: Phantom
+# EnergyDeposit ( MeV ) : Sum   
+# Binned by energy deosited in step in 4 bins of 50 MeV from 0 MeV to 200 MeV
+# First bin is underflow, last bin is overflow.
+0, 175, 0, 0, 0, 0

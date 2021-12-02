@@ -1,0 +1,32 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: ParallelBoxRebinned.txt
+# Results for scorer Score2by3by4
+# Scored in component: ParallelWorldBox
+# X in 2 bins of 6 cm
+# Y in 3 bins of 3.33333 cm
+# Z in 4 bins of 2 cm
+# DoseToMedium ( Gy ) : Sum   
+0, 0, 0, 0
+0, 0, 1, 0
+0, 0, 2, 0
+0, 0, 3, 0
+0, 1, 0, 0
+0, 1, 1, 0
+0, 1, 2, 0
+0, 1, 3, 0
+0, 2, 0, 0
+0, 2, 1, 0
+0, 2, 2, 0
+0, 2, 3, 0
+1, 0, 0, 0
+1, 0, 1, 0
+1, 0, 2, 0
+1, 0, 3, 0
+1, 1, 0, 0
+1, 1, 1, 0
+1, 1, 2, 0
+1, 1, 3, 0
+1, 2, 0, 0
+1, 2, 1, 0
+1, 2, 2, 0
+1, 2, 3, 0

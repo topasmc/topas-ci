@@ -1,0 +1,8 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: EnergyDivisions.txt
+# Results for scorer EnergyDepAtPhantom2
+# Scored on surface: LeadBox/ZPlusSurface
+# SurfaceTrackCount : Sum   
+# Binned by incident track energy in 10 bins of 10 MeV from 0 MeV to 100 MeV
+# First bin is underflow, next to last bin is overflow, last bin is for case of no incident track.
+0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 965, 0

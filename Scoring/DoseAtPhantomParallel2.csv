@@ -1,0 +1,10 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: GeometryDivisions.txt
+# Results for scorer DoseAtPhantomParallel2
+# Scored in component: Phantom
+# X in 1 bin  of 60 cm
+# Y in 2 bins of 30 cm
+# Z in 1 bin  of 2.2 cm
+# EnergyDeposit ( MeV ) : Sum   
+0, 0, 0, 64.07128143310547
+0, 1, 0, 164.4471130371094

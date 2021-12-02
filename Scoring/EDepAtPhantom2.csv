@@ -1,0 +1,12 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: Complex.txt
+# Results for scorer EDepAtPhantom2
+# Scored in component: Phantom2
+# X in 2 bins of 10 cm
+# Y in 2 bins of 10 cm
+# Z in 1 bin  of 20 cm
+# EnergyDeposit ( MeV ) : Sum   
+0, 0, 0, 114.1802673339844
+0, 1, 0, 687.0501708984375
+1, 0, 0, 207.3776092529297
+1, 1, 0, 434.6141967773438

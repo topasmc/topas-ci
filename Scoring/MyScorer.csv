@@ -1,0 +1,10 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: FoilToSphere.txt
+# Results for scorer MyScorer
+# Scored on surface: Sphere/InnerCurvedSurface
+# R in 2 bins of 2.5 cm
+# Phi in 1 bin  of 120 deg
+# Theta in 1 bin  of 180 deg
+# SurfaceTrackCount : Sum   
+0, 0, 0, 0
+1, 0, 0, 0

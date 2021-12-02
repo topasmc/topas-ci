@@ -1,0 +1,6 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: Complex.txt
+# Results for scorer DoseAtPhantom1b
+# Scored in component: Phantom1
+# DoseToMedium ( Gy ) : Sum   Mean   Count_in_Bin   Second_Moment   Variance   Standard_Deviation   Min   Max   
+# Binary file: DoseAtPhantom1b.bin
