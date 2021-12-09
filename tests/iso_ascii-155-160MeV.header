@@ -1,0 +1,44 @@
+TOPAS ASCII Phase Space
+
+Number of Original Histories: 5000
+Number of Original Histories that Reached Phase Space: 994
+Number of Scored Particles: 39657
+
+Columns of data are as follows:
+ 1: Position X [cm]
+ 2: Position Y [cm]
+ 3: Position Z [cm]
+ 4: Direction Cosine X
+ 5: Direction Cosine Y
+ 6: Energy [MeV]
+ 7: Weight
+ 8: Particle Type (in PDG Format)
+ 9: Flag to tell if Third Direction Cosine is Negative (1 means true)
+10: Flag to tell if this is the First Scored Particle from this History (1 means true)
+
+Number of e+: 3
+Number of e-: 1647
+Number of gamma: 3920
+Number of neutron: 3046
+Number of proton: 31035
+Number of deuteron: 4
+Number of triton: 1
+Number of He3: 1
+
+Minimum Kinetic Energy of e+: 2.24596 MeV
+Minimum Kinetic Energy of e-: 0.00200842 MeV
+Minimum Kinetic Energy of gamma: 0.0045895 MeV
+Minimum Kinetic Energy of neutron: 1.5599e-09 MeV
+Minimum Kinetic Energy of proton: 0.404914 MeV
+Minimum Kinetic Energy of deuteron: 2.41101 MeV
+Minimum Kinetic Energy of triton: 5.03897 MeV
+Minimum Kinetic Energy of He3: 11.4724 MeV
+
+Maximum Kinetic Energy of e+: 3.6759 MeV
+Maximum Kinetic Energy of e-: 5.25849 MeV
+Maximum Kinetic Energy of gamma: 9.77904 MeV
+Maximum Kinetic Energy of neutron: 129.572 MeV
+Maximum Kinetic Energy of proton: 153.648 MeV
+Maximum Kinetic Energy of deuteron: 14.6955 MeV
+Maximum Kinetic Energy of triton: 5.03897 MeV
+Maximum Kinetic Energy of He3: 11.4724 MeV

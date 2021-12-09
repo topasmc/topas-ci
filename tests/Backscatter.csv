@@ -1,0 +1,28 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: Scoring_04.txt
+# Results for scorer Scorer19
+# Scored on surface: Phantom/ZMinusSurface
+# X in 1 bin  of 50 cm
+# Y in 1 bin  of 50 cm
+# Z in 20 bins of 1 cm
+# SurfaceTrackCount : Sum   
+0, 0, 0, 241
+0, 0, 1, 237
+0, 0, 2, 227
+0, 0, 3, 206
+0, 0, 4, 198
+0, 0, 5, 187
+0, 0, 6, 158
+0, 0, 7, 169
+0, 0, 8, 136
+0, 0, 9, 128
+0, 0, 10, 103
+0, 0, 11, 87
+0, 0, 12, 71
+0, 0, 13, 69
+0, 0, 14, 56
+0, 0, 15, 58
+0, 0, 16, 46
+0, 0, 17, 35
+0, 0, 18, 22
+0, 0, 19, 11
