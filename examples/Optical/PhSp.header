@@ -16,8 +16,8 @@ Columns of data are as follows:
  9: Flag to tell if Third Direction Cosine is Negative (1 means true)
 10: Flag to tell if this is the First Scored Particle from this History (1 means true)
 
-Number of particles with PDG code zero: 7
+Number of opticalphoton: 7
 
-Minimum Kinetic Energy of particles with PDG code zero: 1.95731e-06 MeV
+Minimum Kinetic Energy of opticalphoton: 1.95639e-06 MeV
 
-Maximum Kinetic Energy of particles with PDG code zero: 1.96119e-06 MeV
+Maximum Kinetic Energy of opticalphoton: 1.95974e-06 MeV

@@ -1,8 +1,8 @@
 TOPAS ASCII Phase Space
 
 Number of Original Histories: 1000
-Number of Original Histories that Reached Phase Space: 995
-Number of Scored Particles: 45005
+Number of Original Histories that Reached Phase Space: 996
+Number of Scored Particles: 45786
 
 Columns of data are as follows:
  1: Position X [cm]
@@ -16,26 +16,29 @@ Columns of data are as follows:
  9: Flag to tell if Third Direction Cosine is Negative (1 means true)
 10: Flag to tell if this is the First Scored Particle from this History (1 means true)
 
-Number of e+: 2
-Number of e-: 1828
-Number of gamma: 5366
-Number of neutron: 3616
-Number of proton: 34190
+Number of e+: 1
+Number of e-: 1756
+Number of gamma: 5356
+Number of neutron: 4573
+Number of proton: 34095
 Number of deuteron: 2
 Number of triton: 1
+Number of alpha: 2
 
-Minimum Kinetic Energy of e+: 1.16307 MeV
-Minimum Kinetic Energy of e-: 0.00119662 MeV
-Minimum Kinetic Energy of gamma: 0.00601993 MeV
-Minimum Kinetic Energy of neutron: 2.24918e-09 MeV
-Minimum Kinetic Energy of proton: 0.113942 MeV
-Minimum Kinetic Energy of deuteron: 5.69205 MeV
-Minimum Kinetic Energy of triton: 9.18025 MeV
+Minimum Kinetic Energy of e+: 1.27603 MeV
+Minimum Kinetic Energy of e-: 0.00116945 MeV
+Minimum Kinetic Energy of gamma: 0.00541513 MeV
+Minimum Kinetic Energy of neutron: 4.53838e-10 MeV
+Minimum Kinetic Energy of proton: 0.361416 MeV
+Minimum Kinetic Energy of deuteron: 5.21708 MeV
+Minimum Kinetic Energy of triton: 3.68456 MeV
+Minimum Kinetic Energy of alpha: 0.110713 MeV
 
-Maximum Kinetic Energy of e+: 2.12904 MeV
-Maximum Kinetic Energy of e-: 8.98068 MeV
-Maximum Kinetic Energy of gamma: 10.4069 MeV
-Maximum Kinetic Energy of neutron: 121.024 MeV
-Maximum Kinetic Energy of proton: 163.717 MeV
-Maximum Kinetic Energy of deuteron: 18.5103 MeV
-Maximum Kinetic Energy of triton: 9.18025 MeV
+Maximum Kinetic Energy of e+: 1.27603 MeV
+Maximum Kinetic Energy of e-: 6.90963 MeV
+Maximum Kinetic Energy of gamma: 11.1267 MeV
+Maximum Kinetic Energy of neutron: 129.242 MeV
+Maximum Kinetic Energy of proton: 163.709 MeV
+Maximum Kinetic Energy of deuteron: 12.7233 MeV
+Maximum Kinetic Energy of triton: 3.68456 MeV
+Maximum Kinetic Energy of alpha: 13.3557 MeV

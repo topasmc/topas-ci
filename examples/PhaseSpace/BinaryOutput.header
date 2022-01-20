@@ -2,7 +2,7 @@ TOPAS Binary Phase Space
 
 Number of Original Histories: 100
 Number of Original Histories that Reached Phase Space: 100
-Number of Scored Particles: 117
+Number of Scored Particles: 105
 Number of Bytes per Particle: 102
 
 Byte order of each record is as follows:
@@ -34,17 +34,11 @@ i4: Seed Part 2
 i4: Seed Part 3
 i4: Seed Part 4
 
-Number of e-: 9
-Number of gamma: 4
-Number of neutron: 2
-Number of proton: 102
+Number of e-: 5
+Number of proton: 100
 
-Minimum Kinetic Energy of e-: 0.0136655 MeV
-Minimum Kinetic Energy of gamma: 0.0264881 MeV
-Minimum Kinetic Energy of neutron: 19.5921 MeV
-Minimum Kinetic Energy of proton: 14.1804 MeV
+Minimum Kinetic Energy of e-: 0.124553 MeV
+Minimum Kinetic Energy of proton: 153.053 MeV
 
-Maximum Kinetic Energy of e-: 0.307497 MeV
-Maximum Kinetic Energy of gamma: 5.37037 MeV
-Maximum Kinetic Energy of neutron: 45.2571 MeV
-Maximum Kinetic Energy of proton: 160.801 MeV
+Maximum Kinetic Energy of e-: 0.244456 MeV
+Maximum Kinetic Energy of proton: 159.434 MeV

@@ -1,8 +1,8 @@
 TOPAS ASCII Phase Space
 
 Number of Original Histories: 100000
-Number of Original Histories that Reached Phase Space: 68
-Number of Scored Particles: 200
+Number of Original Histories that Reached Phase Space: 63
+Number of Scored Particles: 156
 
 Columns of data are as follows:
  1: Position X [cm]
@@ -17,8 +17,8 @@ Columns of data are as follows:
 10: Flag to tell if this is the First Scored Particle from this History (1 means true)
 11: Time of Flight [ns]
 
-Number of particles with PDG code zero: 200
+Number of opticalphoton: 156
 
-Minimum Kinetic Energy of particles with PDG code zero: 2.10193e-06 MeV
+Minimum Kinetic Energy of opticalphoton: 2.11068e-06 MeV
 
-Maximum Kinetic Energy of particles with PDG code zero: 2.68579e-06 MeV
+Maximum Kinetic Energy of opticalphoton: 2.84148e-06 MeV

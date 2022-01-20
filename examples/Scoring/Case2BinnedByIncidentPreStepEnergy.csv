@@ -5,4 +5,4 @@
 # EnergyDeposit ( MeV ) : Sum   
 # Binned by pre-step energy in 4 bins of 50 MeV from 0 MeV to 200 MeV
 # First bin is underflow, last bin is overflow.
-0, 60.77906799316406, 46.20967483520508, 46.59270858764648, 21.41854667663574, 0
+0, 61.6866340637207, 47.86927795410156, 42.80061340332031, 22.64347076416016, 0

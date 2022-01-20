@@ -23,11 +23,11 @@ Columns of data are as follows:
 16: Seed Part 3
 17: Seed Part 4
 
-Number of neutron: 2
+Number of e-: 2
 Number of proton: 10
 
-Minimum Kinetic Energy of neutron: 19.5921 MeV
-Minimum Kinetic Energy of proton: 31.5081 MeV
+Minimum Kinetic Energy of e-: 0.124553 MeV
+Minimum Kinetic Energy of proton: 154.65 MeV
 
-Maximum Kinetic Energy of neutron: 45.2571 MeV
-Maximum Kinetic Energy of proton: 160.801 MeV
+Maximum Kinetic Energy of e-: 0.177662 MeV
+Maximum Kinetic Energy of proton: 157.549 MeV
