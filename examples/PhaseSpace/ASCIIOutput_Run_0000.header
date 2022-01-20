@@ -2,7 +2,7 @@ TOPAS ASCII Phase Space
 
 Number of Original Histories: 10
 Number of Original Histories that Reached Phase Space: 10
-Number of Scored Particles: 13
+Number of Scored Particles: 12
 
 Columns of data are as follows:
  1: Position X [cm]
@@ -23,14 +23,11 @@ Columns of data are as follows:
 16: Seed Part 3
 17: Seed Part 4
 
-Number of e-: 1
 Number of neutron: 2
 Number of proton: 10
 
-Minimum Kinetic Energy of e-: 0.112993 MeV
-Minimum Kinetic Energy of neutron: 19.592 MeV
-Minimum Kinetic Energy of proton: 31.599 MeV
+Minimum Kinetic Energy of neutron: 19.5921 MeV
+Minimum Kinetic Energy of proton: 31.5081 MeV
 
-Maximum Kinetic Energy of e-: 0.112993 MeV
-Maximum Kinetic Energy of neutron: 45.2568 MeV
-Maximum Kinetic Energy of proton: 160.803 MeV
+Maximum Kinetic Energy of neutron: 45.2571 MeV
+Maximum Kinetic Energy of proton: 160.801 MeV

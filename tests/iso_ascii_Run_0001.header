@@ -2,7 +2,7 @@ TOPAS ASCII Phase Space
 
 Number of Original Histories: 1000
 Number of Original Histories that Reached Phase Space: 994
-Number of Scored Particles: 39657
+Number of Scored Particles: 40138
 
 Columns of data are as follows:
  1: Position X [cm]
@@ -16,29 +16,29 @@ Columns of data are as follows:
  9: Flag to tell if Third Direction Cosine is Negative (1 means true)
 10: Flag to tell if this is the First Scored Particle from this History (1 means true)
 
-Number of e+: 3
-Number of e-: 1647
-Number of gamma: 3920
-Number of neutron: 3046
-Number of proton: 31035
+Number of e+: 2
+Number of e-: 1579
+Number of gamma: 3804
+Number of neutron: 3699
+Number of proton: 31048
 Number of deuteron: 4
 Number of triton: 1
 Number of He3: 1
 
-Minimum Kinetic Energy of e+: 2.24596 MeV
-Minimum Kinetic Energy of e-: 0.00200842 MeV
-Minimum Kinetic Energy of gamma: 0.0045895 MeV
+Minimum Kinetic Energy of e+: 2.2956 MeV
+Minimum Kinetic Energy of e-: 0.00353757 MeV
+Minimum Kinetic Energy of gamma: 0.00169271 MeV
 Minimum Kinetic Energy of neutron: 1.5599e-09 MeV
-Minimum Kinetic Energy of proton: 0.404914 MeV
-Minimum Kinetic Energy of deuteron: 2.41101 MeV
-Minimum Kinetic Energy of triton: 5.03897 MeV
-Minimum Kinetic Energy of He3: 11.4724 MeV
+Minimum Kinetic Energy of proton: 0.0074074 MeV
+Minimum Kinetic Energy of deuteron: 2.41088 MeV
+Minimum Kinetic Energy of triton: 5.0389 MeV
+Minimum Kinetic Energy of He3: 11.4718 MeV
 
-Maximum Kinetic Energy of e+: 3.6759 MeV
-Maximum Kinetic Energy of e-: 5.25849 MeV
-Maximum Kinetic Energy of gamma: 9.77904 MeV
+Maximum Kinetic Energy of e+: 3.6752 MeV
+Maximum Kinetic Energy of e-: 7.71964 MeV
+Maximum Kinetic Energy of gamma: 9.77894 MeV
 Maximum Kinetic Energy of neutron: 129.572 MeV
 Maximum Kinetic Energy of proton: 153.648 MeV
-Maximum Kinetic Energy of deuteron: 14.6955 MeV
-Maximum Kinetic Energy of triton: 5.03897 MeV
-Maximum Kinetic Energy of He3: 11.4724 MeV
+Maximum Kinetic Energy of deuteron: 14.6923 MeV
+Maximum Kinetic Energy of triton: 5.0389 MeV
+Maximum Kinetic Energy of He3: 11.4718 MeV

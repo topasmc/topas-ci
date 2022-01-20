@@ -23,11 +23,11 @@ Columns of data are as follows:
 16: Seed Part 3
 17: Seed Part 4
 
-Number of e-: 1
+Number of gamma: 1
 Number of proton: 10
 
-Minimum Kinetic Energy of e-: 0.0581575 MeV
-Minimum Kinetic Energy of proton: 154.512 MeV
+Minimum Kinetic Energy of gamma: 0.0380139 MeV
+Minimum Kinetic Energy of proton: 154.513 MeV
 
-Maximum Kinetic Energy of e-: 0.0581575 MeV
-Maximum Kinetic Energy of proton: 159.643 MeV
+Maximum Kinetic Energy of gamma: 0.0380139 MeV
+Maximum Kinetic Energy of proton: 159.642 MeV
