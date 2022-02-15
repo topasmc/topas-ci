@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: DoseToMediumVsWater.txt
-# Results for scorer 3WaterBoxDoseToMaterialWater
+# Results for scorer: 3WaterBoxDoseToMaterialWater
 # Scored in component: WaterBox
 # DoseToMaterial ( Gy ) : Sum   
 2.854709741165196e-13

@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: PatientInIEC_2_time_feature.txt
-# Results for scorer DoseAtPhantom1
+# Results for scorer: DoseAtPhantom1
 # Scored in component: patient_rleg
 # DoseToWater ( Gy ) : Sum   
 0

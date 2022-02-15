@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Scoring_04.txt
-# Results for scorer Scorer19
+# Results for scorer: Scorer19
+# Filtered by: OnlyIncludeParticlesGoing = "Out"
 # Scored on surface: Phantom/ZMinusSurface
 # X in 1 bin  of 50 cm
 # Y in 1 bin  of 50 cm

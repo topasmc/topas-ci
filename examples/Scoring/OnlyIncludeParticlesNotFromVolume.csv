@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeParticlesNotFromVolume
+# Results for scorer: OnlyIncludeParticlesNotFromVolume
+# Filtered by: OnlyIncludeParticlesNotFromVolume = 2 "World" "Foil"
 # Scored on surface: Box/ZPlusSurface
 # SurfaceTrackCount : Sum   
 0

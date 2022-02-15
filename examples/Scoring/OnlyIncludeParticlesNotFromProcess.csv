@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeParticlesNotFromProcess
+# Results for scorer: OnlyIncludeParticlesNotFromProcess
+# Filtered by: OnlyIncludeParticlesNotFromProcess = 1 "hIoni"
 # Scored on surface: Box/ZPlusSurface
 # SurfaceTrackCount : Sum   
 1

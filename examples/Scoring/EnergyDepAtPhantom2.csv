@@ -1,6 +1,8 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: EnergyDivisions.txt
-# Results for scorer EnergyDepAtPhantom2
+# Results for scorer: EnergyDepAtPhantom2
+# Filtered by: OnlyIncludeParticlesOfGeneration = "primary"
+# Filtered by: OnlyIncludeParticlesNamed = 1 "proton"
 # Scored on surface: LeadBox/ZPlusSurface
 # SurfaceTrackCount : Sum   
 # Binned by incident track energy in 10 bins of 10 MeV from 0 MeV to 100 MeV

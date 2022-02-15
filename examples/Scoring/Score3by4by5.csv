@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: ParallelBoxRebinned.txt
-# Results for scorer Score3by4by5
+# Results for scorer: Score3by4by5
+# Filtered by: OnlyIncludeParticlesFromProcess = 1 "hIoni"
 # Scored in component: ParallelWorldBox
 # X in 3 bins of 4 cm
 # Y in 4 bins of 2.5 cm

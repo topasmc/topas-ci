@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: FilterByInteractionCount.txt
-# Results for scorer InteractionCountBelow20
+# Results for scorer: InteractionCountBelow20
+# Filtered by: OnlyIncludeParticlesWithInteractionCountBelow = 20
 # Scored in component: Phantom
 # EnergyDeposit ( MeV ) : Sum   
 1

@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Origin.txt
-# Results for scorer ParticlesFromFilm1ContainerButNotSubcomponents
+# Results for scorer: ParticlesFromFilm1ContainerButNotSubcomponents
+# Filtered by: OnlyIncludeParticlesFromComponent = 1 "Film1Container"
 # Scored in component: Phantom
 # Fluence ( /mm2 ) : Sum   
 1.745491857718662e-07

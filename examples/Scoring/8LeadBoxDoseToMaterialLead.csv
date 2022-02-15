@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: DoseToMediumVsWater.txt
-# Results for scorer 8LeadBoxDoseToMaterialLead
+# Results for scorer: 8LeadBoxDoseToMaterialLead
 # Scored in component: LeadBox
 # DoseToMaterial ( Gy ) : Sum   
 5.830852294053113e-12

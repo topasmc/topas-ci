@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: ChangingKEFilterByTimeFeature.txt
-# Results for scorer Boxc
+# Results for scorer: Boxc
+# Filtered by: OnlyIncludeIfIncidentParticleKEAbove = 519 MeV
 # Scored in component: Box
 # Fluence ( /mm2 ) : Sum   
 2.334945293114288e-06

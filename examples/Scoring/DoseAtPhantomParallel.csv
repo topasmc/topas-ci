@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: GeometryDivisions.txt
-# Results for scorer DoseAtPhantomParallel
+# Results for scorer: DoseAtPhantomParallel
 # Scored in component: Phantom
 # X in 2 bins of 30 cm
 # Y in 1 bin  of 60 cm

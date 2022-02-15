@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeParticlesNamed
+# Results for scorer: OnlyIncludeParticlesNamed
+# Filtered by: OnlyIncludeParticlesNamed = 1 "proton"
 # Scored on surface: Box/ZPlusSurface
 # SurfaceTrackCount : Sum   
 1

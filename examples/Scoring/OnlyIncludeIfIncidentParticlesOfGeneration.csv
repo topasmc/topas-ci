@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeIfIncidentParticlesOfGeneration
+# Results for scorer: OnlyIncludeIfIncidentParticlesOfGeneration
+# Filtered by: OnlyIncludeIfIncidentParticlesOfGeneration = "Primary"
 # Scored in component: Box
 # EnergyDeposit ( MeV ) : Sum   
 138.1747436523438

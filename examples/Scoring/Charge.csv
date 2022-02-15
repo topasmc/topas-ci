@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: ChargeInSphere.txt
-# Results for scorer Charge
+# Results for scorer: Charge
+# Filtered by: OnlyIncludeParticlesNamed = 1 "proton"
 # Scored in component: Sphere
 # Charge ( e+ ) : Sum   
 0

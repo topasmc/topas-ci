@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: OriginCount.txt
-# Results for scorer CountOuterE
+# Results for scorer: CountOuterE
+# Filtered by: OnlyIncludeParticlesNamed = 1 "e-"
 # Scored in component: OuterCone
 # OriginCount : Sum   
 2

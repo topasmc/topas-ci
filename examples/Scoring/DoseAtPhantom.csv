@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: GeometryDivisions.txt
-# Results for scorer DoseAtPhantom
+# Results for scorer: DoseAtPhantom
 # Scored in component: Phantom
 # EnergyDeposit ( MeV ) : Sum   
 227.7662353515625

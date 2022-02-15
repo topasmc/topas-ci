@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Gated.txt
-# Results for scorer GatedAndOutputPerSession
+# Results for scorer: GatedAndOutputPerSession
 # Scored in component: Box
 # Fluence ( /mm2 ) : Sum   
 1.050205082719913e-05

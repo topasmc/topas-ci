@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: OriginCount.txt
-# Results for scorer CountOuterG
+# Results for scorer: CountOuterG
+# Filtered by: OnlyIncludeParticlesNamed = 1 "gamma"
 # Scored in component: OuterCone
 # OriginCount : Sum   
 0

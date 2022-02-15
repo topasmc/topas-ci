@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: EnergyDepositBinnedByEnergy.txt
-# Results for scorer Case2BinnedByIncidentPreStepEnergy
+# Results for scorer: Case2BinnedByIncidentPreStepEnergy
 # Scored in component: Phantom
 # EnergyDeposit ( MeV ) : Sum   
 # Binned by pre-step energy in 4 bins of 50 MeV from 0 MeV to 200 MeV

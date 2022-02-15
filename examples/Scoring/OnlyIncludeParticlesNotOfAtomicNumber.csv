@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeParticlesNotOfAtomicNumber
+# Results for scorer: OnlyIncludeParticlesNotOfAtomicNumber
+# Filtered by: OnlyIncludeParticlesNotOfAtomicNumber = 1
 # Scored on surface: Box/ZPlusSurface
 # SurfaceTrackCount : Sum   
 0

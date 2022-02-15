@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Ion.txt
-# Results for scorer AllOfAtomicNumber6
+# Results for scorer: AllOfAtomicNumber6
+# Filtered by: OnlyIncludeParticlesOfAtomicNumber = 6
 # Scored in component: Phantom
 # EnergyDeposit ( MeV ) : Mean   Count_in_Bin   Standard_Deviation   
 99.89893844385216, 10000, 2.679973089686684

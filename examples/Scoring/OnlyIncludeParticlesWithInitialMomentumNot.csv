@@ -1,6 +1,7 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: Filters.txt
-# Results for scorer OnlyIncludeParticlesWithInitialMomentumNot
+# Results for scorer: OnlyIncludeParticlesWithInitialMomentumNot
+# Filtered by: OnlyIncludeParticlesWithInitialMomentumNot = 100 MeV
 # Scored on surface: Box/ZPlusSurface
 # SurfaceTrackCount : Sum   
 1

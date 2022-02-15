@@ -1,6 +1,6 @@
 # TOPAS Version: 3.7.p1_expanded
 # Parameter File: GeometricalParticleSplit.txt
-# Results for scorer scorer
+# Results for scorer: scorer
 # Scored in component: Phantom
 # DoseToMedium ( Gy ) : Sum   Mean   Variance   
 1.820168127331101e-09, 4.550420383303744e-12, 1.331057354269478e-23
