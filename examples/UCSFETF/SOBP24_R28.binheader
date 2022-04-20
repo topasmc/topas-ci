@@ -1,0 +1,9 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: User_SOBP24_R28_WaterPhantom.txt
+# Results for scorer: DoseAtWaterPhantom
+# Scored in component: WaterPhantom
+# X in 1 bin  of 8 cm
+# Y in 1 bin  of 8 cm
+# Z in 80 bins of 0.05 cm
+# DoseToMedium ( Gy ) : Sum   
+# Binary file: SOBP24_R28.bin
