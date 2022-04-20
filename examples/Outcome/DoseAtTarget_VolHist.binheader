@@ -1,0 +1,7 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: TestRestoreModel.txt
+# Results for Scorer: Target
+# Scored in component: WaterPhantom/Target
+# Cumulative Volume Histogram over number of voxels: 17600
+# BinNumber, LowerLimit of DoseToMedium ( Gy ), Value
+# Binary file: DoseAtTarget_VolHist.bin

@@ -1,0 +1,9 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: TestRestoreModel.txt
+# Results for scorer: Target
+# Scored in component: WaterPhantom/Target
+# X in 20 bins of 0.1 cm
+# Y in 20 bins of 0.1 cm
+# Z in 44 bins of 0.1 cm
+# DoseToMedium ( Gy ) : Sum   
+# Binary file: DoseAtTarget.bin
