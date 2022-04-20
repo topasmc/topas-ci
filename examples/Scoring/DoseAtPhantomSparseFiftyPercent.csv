@@ -1,0 +1,17 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: SparsifyAndSingleIndex.txt
+# Results for scorer: DoseAtPhantomSparseFiftyPercent
+# Scored in component: Phantom
+# X in 4 bins of 15 cm
+# Y in 4 bins of 15 cm
+# Z in 4 bins of 5 cm
+# DoseToMedium ( Gy ) : Sum   
+# Showing only rows that have sum > 7.50589e-12 Gy
+1, 1, 0, 8.968194242786609e-12
+1, 1, 2, 9.654881061305076e-12
+1, 1, 3, 1.112557788951474e-11
+1, 2, 0, 7.818471564613461e-12
+1, 2, 1, 1.007878242670346e-11
+2, 1, 1, 8.823431568716344e-12
+2, 1, 2, 8.762099552861446e-12
+2, 1, 3, 1.501177133989007e-11

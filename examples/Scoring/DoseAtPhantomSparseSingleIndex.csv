@@ -1,0 +1,26 @@
+# TOPAS Version: 3.7.p1_expanded
+# Parameter File: SparsifyAndSingleIndex.txt
+# Results for scorer: DoseAtPhantomSparseSingleIndex
+# Scored in component: Phantom
+# X in 4 bins of 15 cm
+# Y in 4 bins of 15 cm
+# Z in 4 bins of 5 cm
+# DoseToMedium ( Gy ) : Sum   
+# Showing only rows that have sum > 0 Gy
+# Using single index calculated as X * NY * NZ + Y * NZ + Z
+20, 8.968194242786609e-12
+21, 6.931204308419092e-12
+22, 9.654881061305076e-12
+23, 1.112557788951474e-11
+24, 7.818471564613461e-12
+25, 1.007878242670346e-11
+26, 4.834757594274208e-12
+27, 7.017069217352123e-12
+36, 6.034346199806917e-12
+37, 8.823431568716344e-12
+38, 8.762099552861446e-12
+39, 1.501177133989007e-11
+40, 4.783603201052866e-12
+41, 5.93750179231356e-12
+42, 4.644795398994761e-12
+43, 4.946858027377043e-12
