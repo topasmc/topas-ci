@@ -1,8 +1,8 @@
 TOPAS ASCII Phase Space
 
 Number of Original Histories: 5000
-Number of Original Histories that Reached Phase Space: 997
-Number of Scored Particles: 38688
+Number of Original Histories that Reached Phase Space: 996
+Number of Scored Particles: 39808
 
 Columns of data are as follows:
  1: Position X [cm]
@@ -16,23 +16,23 @@ Columns of data are as follows:
  9: Flag to tell if Third Direction Cosine is Negative (1 means true)
 10: Flag to tell if this is the First Scored Particle from this History (1 means true)
 
-Number of e+: 5
-Number of e-: 1522
-Number of gamma: 4209
-Number of neutron: 3142
-Number of proton: 29809
-Number of deuteron: 1
+Number of e+: 11
+Number of e-: 1584
+Number of gamma: 4669
+Number of neutron: 3950
+Number of proton: 29591
+Number of deuteron: 3
 
-Minimum Kinetic Energy of e+: 0.384119 MeV
-Minimum Kinetic Energy of e-: 0.000609486 MeV
-Minimum Kinetic Energy of gamma: 0.00231349 MeV
-Minimum Kinetic Energy of neutron: 1.25499e-09 MeV
-Minimum Kinetic Energy of proton: 0.63365 MeV
-Minimum Kinetic Energy of deuteron: 7.85927 MeV
+Minimum Kinetic Energy of e+: 0.719425 MeV
+Minimum Kinetic Energy of e-: 0.00186818 MeV
+Minimum Kinetic Energy of gamma: 0.00350085 MeV
+Minimum Kinetic Energy of neutron: 7.98423e-10 MeV
+Minimum Kinetic Energy of proton: 0.476435 MeV
+Minimum Kinetic Energy of deuteron: 3.01863 MeV
 
-Maximum Kinetic Energy of e+: 2.97396 MeV
-Maximum Kinetic Energy of e-: 7.47026 MeV
-Maximum Kinetic Energy of gamma: 11.4879 MeV
-Maximum Kinetic Energy of neutron: 104.587 MeV
-Maximum Kinetic Energy of proton: 148.651 MeV
-Maximum Kinetic Energy of deuteron: 7.85927 MeV
+Maximum Kinetic Energy of e+: 4.69928 MeV
+Maximum Kinetic Energy of e-: 6.95409 MeV
+Maximum Kinetic Energy of gamma: 10.2257 MeV
+Maximum Kinetic Energy of neutron: 93.8951 MeV
+Maximum Kinetic Energy of proton: 148.636 MeV
+Maximum Kinetic Energy of deuteron: 13.2463 MeV

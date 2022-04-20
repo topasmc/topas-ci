@@ -4,4 +4,4 @@
 # Filtered by: OnlyIncludeParticlesNamed = 3 "GenericIon(6,12,3)" "GenericIon(6,12,4)" "GenericIon(6,12,5)"
 # Scored in component: Phantom
 # EnergyDeposit ( MeV ) : Mean   Count_in_Bin   Standard_Deviation   
-99.87950520944028, 10000, 2.988489029350726
+99.87061418701627, 10000, 3.03813729902165
