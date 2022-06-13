@@ -1,4 +1,4 @@
-# TOPAS Version: 3.7.p1_expanded
+# TOPAS Version: 3.8_expanded
 # Parameter File: Ion.txt
 # Results for scorer: IonsWithCharge3to5
 # Filtered by: OnlyIncludeParticlesNamed = 3 "GenericIon(6,12,3)" "GenericIon(6,12,4)" "GenericIon(6,12,5)"
