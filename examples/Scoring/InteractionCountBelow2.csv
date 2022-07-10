@@ -1,4 +1,4 @@
-# TOPAS Version: 3.8_expanded
+# TOPAS Version: 3.8.p1_expanded
 # Parameter File: FilterByInteractionCount.txt
 # Results for scorer: InteractionCountBelow2
 # Filtered by: OnlyIncludeParticlesWithInteractionCountBelow = 2
