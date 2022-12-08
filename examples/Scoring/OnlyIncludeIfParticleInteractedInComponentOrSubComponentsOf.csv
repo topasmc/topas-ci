@@ -1,4 +1,4 @@
-# TOPAS Version: 3.8.p1_expanded
+# TOPAS Version: 3.9_expanded
 # Parameter File: Filters.txt
 # Results for scorer: OnlyIncludeIfParticleInteractedInComponentOrSubComponentsOf
 # Filtered by: OnlyIncludeIfParticleInteractedInComponentOrSubComponentsOf = 2 "World" "Foil"
